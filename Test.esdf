@@ -1,0 +1,11 @@
+^name:"DocumentName"
+-
+@annotation
+element  : "Element value."
+>nested  : "Nested value."
+>>nested2 : "Nested value 2."
+.attrib  : "Attribute value."
+element2 : "Element value 2."
+>nested3 : "Nested value 3."
+@annotation2
+>>nested4: "Nested value 4."
